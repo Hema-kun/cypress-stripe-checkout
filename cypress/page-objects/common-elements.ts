@@ -1,7 +1,3 @@
-/***************************************************************
-    # Author             :  Alex Alipoyo      
-    # Last updated on    :  15 March 2023
-***************************************************************/
 import * as faker from 'faker';
 
 let email = faker.internet.email()

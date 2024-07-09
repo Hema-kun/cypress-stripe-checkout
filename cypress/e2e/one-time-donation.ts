@@ -1,18 +1,3 @@
-/***************************************************************
-    # Author            :  Alex Alipoyo  
-    # Last updated on   :  15 March 2023
-
-    # TestCase          :  Submit One-Time Donation with $5.00
-    # Scenarios         :  
-        Without 3D secure Verification
-        With 3D secure Verification
-        Validate Mandatory Fields
-        Failed submission with 3D secure Verification
-        Complete submission with 3D secure Verification
-        Save information for 1-click Checkout
-        Validate incomplete email address
-***************************************************************/
-
 import { commonElements } from "../page-objects/common-elements";
 
 const COMM_ELEMENTS = new commonElements();
